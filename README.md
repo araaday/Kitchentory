@@ -7,4 +7,4 @@ Website for restaurants to manage their kitchen inventory
 - Iot device connects to the website through cloud.
 - AwS 
 
-! [image](https://github.com/bringitbackalive/kitchentory/blob/main/public/kitchentory.jpg)
+![image](https://github.com/bringitbackalive/kitchentory/blob/main/public/kitchentory.jpg)
